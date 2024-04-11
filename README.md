@@ -1,16 +1,46 @@
-### Hi there 👋
+<div align="center">
+   <img
+      alt="V1niSouza-top-langs"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1niSouza&show_icons=true&theme=github_dark&layout=compact&langs_count=10"
+      height="150em">
+   <img
+      alt="V1niSouza-status"
+      src="https://github-readme-stats.vercel.app/api?username=V1niSouza&show_icons=true&theme=github_dark&count_private=true&include_all_commits"
+      height="150em">
+</div>
 
-<!--
-**V1niSouza/V1niSouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=V1niSouza&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=V1niSouza&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+  <div align="center" >
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,figma,javascript,css,html,react,nodejs,express,github,bootstrap,php,mysql,java,c,cs,cpp,laravel,latex,npm" />
+</a>
+  <br />
+
+  </div>
+
+ 
+##
+   <div align="center" >
+     <img src="https://github-profile-trophy.vercel.app/?username=V1niSouza&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+  </div>
+  
+ 
+
+
+
+
+
+
+ 
+  
+  
+
+  
+
+
+
