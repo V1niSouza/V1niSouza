@@ -1,14 +1,6 @@
-<div align="center">
-<!--    <img
-      alt="V1niSouza-top-langs"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1niSouza&show_icons=true&theme=github_dark&layout=compact&langs_count=10"
-      height="150em">
-   <img
-      alt="V1niSouza-status"
-      src="https://github-readme-stats.vercel.app/api?username=V1niSouza&show_icons=true&theme=github_dark&count_private=true&include_all_commits"
-      height="150em">
-</div> -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff8c00&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Rian+Yuri+;Eu+tenho+19+anos+:%29)](https://git.io/typing-svg)
 
+<div align="center">
   
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=V1niSouza&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=V1niSouza&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
@@ -18,7 +10,7 @@
 
   <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,github,linkedin,vscode,visualstudio,arduino,bootstrap,c,cs,cpp,css,express,html,java,js,latex,mysql,nodejs,npm,py,react,regex,wordpress,xampp" />
+  <img src="https://skillicons.dev/icons?i=git,github,linkedin,vscode,visualstudio,arduino,bootstrap,c,cs,cpp,css,express,html,java,js,latex,mysql,nodejs,npm,py,react,regex,wordpress" />
 </a>
   <br/>
   </div>
