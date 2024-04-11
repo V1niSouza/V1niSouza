@@ -23,11 +23,11 @@
   <br/>
   </div>
   
- ### 🛠️ Redes Sociais:
+ ### 🛠️ Linkedin:
  
    <div align="center">
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=github,linkedin,gmail"/>
+  <img src="https://skillicons.dev/icons?i=linkedin"/> <a href="[https://www.linkedin.com/in/vinisouza05/]">
 </a>
   <br />
   </div>
