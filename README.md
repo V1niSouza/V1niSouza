@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff8c00&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Vinicius+Souza+;%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ED226A&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Vinicius+Souza;%29)](https://git.io/typing-svg)
 
 <div align="center">
   
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=V1niSouza&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=V1niSouza&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=V1niSouza&theme=monokai&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=V1niSouza&theme=monokai)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
 
 
@@ -14,6 +14,8 @@
 </a>
   <br/>
   </div>
+
+  
   
  ### 🛠️ Linkedin:
  
