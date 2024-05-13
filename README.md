@@ -2,8 +2,7 @@
 
 <div align="center">
   
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=V1niSouza&theme=monokai&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=V1niSouza&theme=monokai)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
- | ----------- | ----------- |
+
 
 
  ### 🛠️ Linguagens e ferramentas:
