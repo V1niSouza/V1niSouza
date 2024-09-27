@@ -1,10 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ED226A&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Vinicius+Souza;%29)](https://git.io/typing-svg)
-
 <div align="left">
-  
-
-
-
  ### 🛠️ Linguagens e ferramentas:
 
   <div align="center" >
@@ -18,7 +12,7 @@
   
  ### 🛠️ Linkedin:
  
-<div align="center">
+<div align="left">
    <a href="https://www.linkedin.com/in/vinisouza05/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 </div>
   
