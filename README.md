@@ -1,4 +1,4 @@
-<div align="left">
+
 ### 🛠️ Linguagens e ferramentas:
   <div align="center" >
 <a href="https://skillicons.dev"   >
