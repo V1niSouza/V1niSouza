@@ -1,32 +1,62 @@
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bison.png" alt="Bison" width="6%" />
 
-### 🛠️ Linguagens e ferramentas:
-  <div align="center" >
-<a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,github,linkedin,vscode,visualstudio,arduino,bootstrap,c,cs,cpp,css,express,html,java,js,latex,mysql,nodejs,npm,py,react,regex,wordpress" />
+# Olá, como você vai?
+
+Antes de explorar meus repositórios, deixa eu me apresentar rapidinho:
+
+Me chamo **Vinicius Souza**, sou estudante da **Fatec Registro**, no curso de **Desenvolvimento de Software Multiplataforma**.
+
+Além disso, trabalho na própria unidade como parte do **Departamento de Tecnologia da Informação (DTI)**, onde atuo na **manutenção de redes**, **instalação de sistemas** e **suporte técnico** para professores, administrativos e alunos.
+
+Sou formado como **Técnico em Desenvolvimento de Sistemas**, e tenho buscado constantemente aplicar meus conhecimentos em projetos acadêmicos, profissionais e pessoais.
+
+---
+
+## 🚀 Projeto em Destaque
+
+🦬 **BUFFS** — Plataforma de Controle e Acompanhamento da Produção Leiteira e Manejo de Búfalas.  
+Solução prática e integrada para o controle da produção leiteira e manejo de búfalas, unindo tecnologia web, dispositivos físicos e inteligência de dados.
+
+🔗 [Acesse os repositórios do projeto BUFFS](https://github.com/orgs/CyberLiveStock/repositories)
+
+---
+
+## 🧠 Tecnologias que utilizo
+
+### 💻 Linguagens de Programação
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python,c,cs" />
 </a>
-  <br/>
-  </div>
-<br/>
-  
-  
-### 🛠️ Linkedin:
- 
-<div align="left">
-   <a href="https://www.linkedin.com/in/vinisouza05/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
-</div>
-  
- 
 
+### ⚙️ Frameworks e Bibliotecas
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,react,reactnative,express,bootstrap,arduino,wordpress" />
+</a>
 
+### 🗄️ Banco de Dados
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</a>
 
+### 🧰 Ferramentas e Plataformas
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,npm,latex" />
+</a>
 
+### 🌐 Redes Sociais
+<a href="https://www.linkedin.com/in/seu-usuario" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 
+---
 
- 
-  
-  
+## 📊 GitHub Stats
 
-  
+![V1niSouza's GitHub stats](https://github-readme-stats.vercel.app/api?username=V1niSouza&show_icons=true&theme=default&hide_rank=true)
 
+---
 
+## 🔥 Linguagens mais usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V1niSouza&layout=compact&langs_count=10&theme=default)
 
