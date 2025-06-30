@@ -12,9 +12,11 @@ Sou formado como **Técnico em Desenvolvimento de Sistemas**, e tenho buscado co
 
 ## 🚀 Projeto em Destaque
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bison.png" alt="Bison" width="3%" />
- **BUFFS** — Plataforma de Controle e Acompanhamento da Produção Leiteira e Manejo de Búfalas.  
-Solução prática e integrada para o controle da produção leiteira e manejo de búfalas, unindo tecnologia web, dispositivos físicos e inteligência de dados.
+<p>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bison.png" alt="Bison" width="22" style="vertical-align:middle; margin-right: 8px;" />
+  <strong>BUFFS</strong> — Plataforma de Controle e Acompanhamento da Produção Leiteira e Manejo de Búfalas.<br />
+  Solução prática e integrada para o controle da produção leiteira e manejo de búfalas, unindo tecnologia web, dispositivos físicos e inteligência de dados.
+</p>
 
 🔗 [Acesse os repositórios do projeto BUFFS](https://github.com/orgs/CyberLiveStock/repositories)
 
@@ -49,13 +51,9 @@ Solução prática e integrada para o controle da produção leiteira e manejo d
 
 ---
 
-## 📊 GitHub Stats
-
-![V1niSouza's GitHub stats](https://github-readme-stats.vercel.app/api?username=V1niSouza&show_icons=true&theme=default&hide_rank=true)
-
----
-
-## 🔥 Linguagens mais usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V1niSouza&layout=compact&langs_count=10&theme=default)
-
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=V1niSouza&show_icons=true&theme=default&hide_rank=true" alt="GitHub Stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1niSouza&layout=compact&langs_count=10&theme=default" alt="Top Languages" /></td>
+  </tr>
+</table>
