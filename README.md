@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bison.png" alt="Bison" width="6%" />
-
 # Olá, como você vai?
 
 Antes de explorar meus repositórios, deixa eu me apresentar rapidinho:
@@ -14,7 +12,8 @@ Sou formado como **Técnico em Desenvolvimento de Sistemas**, e tenho buscado co
 
 ## 🚀 Projeto em Destaque
 
-🦬 **BUFFS** — Plataforma de Controle e Acompanhamento da Produção Leiteira e Manejo de Búfalas.  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bison.png" alt="Bison" width="3%" />
+ **BUFFS** — Plataforma de Controle e Acompanhamento da Produção Leiteira e Manejo de Búfalas.  
 Solução prática e integrada para o controle da produção leiteira e manejo de búfalas, unindo tecnologia web, dispositivos físicos e inteligência de dados.
 
 🔗 [Acesse os repositórios do projeto BUFFS](https://github.com/orgs/CyberLiveStock/repositories)
