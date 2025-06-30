@@ -13,7 +13,7 @@ Sou formado como **Técnico em Desenvolvimento de Sistemas** e busco constanteme
 <p>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bison.png" alt="Bison" width="22" style="vertical-align:middle; margin-right: 8px;" />
   <strong>BUFFS</strong> — Plataforma de Controle e Acompanhamento da Produção Leiteira e Manejo de Búfalas.<br />
-  Solução prática e integrada para o controle da produção leiteira e manejo de búfalas, unindo tecnologia web, dispositivos móveis e inteligência de dados.
+  Solução prática e integrada para o controle da produção leiteira e manejo de búfalas, unindo tecnologia web, dispositivos móveis e IoT.
 </p>
 
 🔗 [Acesse os repositórios do projeto BUFFS](https://github.com/orgs/CyberLiveStock/repositories)
