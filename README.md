@@ -2,11 +2,9 @@
 
 Antes de explorar meus repositórios, deixa eu me apresentar rapidinho:
 
-Me chamo **Vinicius Souza**, sou estudante da **Fatec Registro**, no curso de **Desenvolvimento de Software Multiplataforma**.
+Me chamo **Vinicius Souza**, sou estudante da **Fatec Registro**, no curso de **Desenvolvimento de Software Multiplataforma**. Além disso, trabalho na própria unidade como parte do **Departamento de Tecnologia da Informação (DTI)**, onde atuo na **manutenção de redes**, **instalação de sistemas** e no **suporte técnico** para professores, administrativos e alunos.
 
-Além disso, trabalho na própria unidade como parte do **Departamento de Tecnologia da Informação (DTI)**, onde atuo na **manutenção de redes**, **instalação de sistemas** e **suporte técnico** para professores, administrativos e alunos.
-
-Sou formado como **Técnico em Desenvolvimento de Sistemas**, e tenho buscado constantemente aplicar meus conhecimentos em projetos acadêmicos, profissionais e pessoais.
+Sou formado como **Técnico em Desenvolvimento de Sistemas** e busco constantemente aplicar meus conhecimentos em projetos acadêmicos, profissionais e pessoais.
 
 ---
 
@@ -15,7 +13,7 @@ Sou formado como **Técnico em Desenvolvimento de Sistemas**, e tenho buscado co
 <p>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bison.png" alt="Bison" width="22" style="vertical-align:middle; margin-right: 8px;" />
   <strong>BUFFS</strong> — Plataforma de Controle e Acompanhamento da Produção Leiteira e Manejo de Búfalas.<br />
-  Solução prática e integrada para o controle da produção leiteira e manejo de búfalas, unindo tecnologia web, dispositivos físicos e inteligência de dados.
+  Solução prática e integrada para o controle da produção leiteira e manejo de búfalas, unindo tecnologia web, dispositivos móveis e inteligência de dados.
 </p>
 
 🔗 [Acesse os repositórios do projeto BUFFS](https://github.com/orgs/CyberLiveStock/repositories)
@@ -51,9 +49,13 @@ Sou formado como **Técnico em Desenvolvimento de Sistemas**, e tenho buscado co
 
 ---
 
+<div align="center">
+
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=V1niSouza&show_icons=true&theme=default&hide_rank=true" alt="GitHub Stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1niSouza&layout=compact&langs_count=10&theme=default" alt="Top Languages" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=V1niSouza&show_icons=true&theme=dark&hide_rank=true" alt="GitHub Stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1niSouza&layout=compact&langs_count=10&theme=dark" alt="Top Languages" /></td>
   </tr>
 </table>
+
+</div>
