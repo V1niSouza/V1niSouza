@@ -43,7 +43,7 @@ Sou formado como **Técnico em Desenvolvimento de Sistemas** e busco constanteme
 </a>
 
 ### 🌐 Redes Sociais
-<a href="https://www.linkedin.com/in/seu-usuario" target="_blank">
+<a href="https://www.linkedin.com/in/vinisouza05/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
