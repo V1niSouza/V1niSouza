@@ -16,7 +16,7 @@ Sou formado como **Técnico em Desenvolvimento de Sistemas** e busco constanteme
   Solução prática e integrada para o controle da produção leiteira e manejo de búfalas, unindo tecnologia web, dispositivos móveis e IoT.
 </p>
 
-🔗 [Acesse os repositórios do projeto BUFFS](https://github.com/orgs/CyberLiveStock/repositories)
+🔗 [Acesse os repositórios do projeto BUFFS](https://github.com/orgs/AgroCore-co/repositories)
 
 ---
 
